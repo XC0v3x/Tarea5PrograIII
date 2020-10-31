@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\bin\Debug\Tarea5_DanielEmilioMartinezEstevez.exe.config
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\bin\Debug\Tarea5_DanielEmilioMartinezEstevez.exe
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\bin\Debug\Tarea5_DanielEmilioMartinezEstevez.pdb
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.Form1.resources
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.Forms.Form2.resources
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.Properties.Resources.resources
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.exe
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.pdb
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.Forms.Form3.resources
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.Forms.Form4.resources
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.Forms.Form5.resources
+C:\Users\User\source\repos\Tarea5_DanielEmilioMartinezEstevez\obj\Debug\Tarea5_DanielEmilioMartinezEstevez.Forms.Form6.resources
